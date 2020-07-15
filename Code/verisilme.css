@@ -1,0 +1,44 @@
+.kutu2 {
+ -webkit-appearance: none;
+  width: 100%;
+  height: 30px;
+  border-radius: 9px;
+  background: #4682B4;
+  font-size: 18px;
+  font-family: Arial;
+  color:white;
+  border-color:#000000;
+  border-width:1px;
+}
+  
+table {
+border-collapse: collapse;
+  margin: auto;
+  padding: 20px;
+  width: 85%;
+}
+ 
+td, th {
+border: 1px solid #ddd;
+padding: 5px;
+}
+ 
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+background-color: #4682B4;
+color: white;
+font-size: 18px;
+}
+
+td {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+font-size: 17px;
+font-family:verdana;,
+}
